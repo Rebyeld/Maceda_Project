@@ -1,0 +1,34 @@
+@font-face {
+    font-family: "Business";
+    src: url(Fonts/Business.ttf);
+
+}
+
+header {
+    background-image: url('Images/Wotah.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 75px;
+    text-align: left;
+}
+
+div.Introduction {
+    padding: 50px;
+    width: 320px;
+    border: 5px solid black;
+}
+
+div.loginform{
+    text-align: right;
+    padding-bottom:120px;
+}
+
+footer {
+    text-align: right;
+    padding-right:20px;
+    border: 5px solid black;
+}
+
+p.business {
+    font-family: Business;
+}
